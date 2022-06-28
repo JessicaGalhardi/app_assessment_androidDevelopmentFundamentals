@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/birds"
+            android:icon="@drawable/bird"
+            android:title="Conheça os passáros do Brasil">
+
+        </item>
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/sobre_nos"
+            android:title="Quem somos?">
+
+        </item>
+
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/help"
+            android:title="Ongs que ajudam os passáros">
+
+        </item>
+
+        <item
+            android:id="@+id/message"
+            android:icon="@drawable/share"
+            android:title="Fale com a gente">
+
+        </item>
+
+        <item
+            android:id="@+id/tráfico"
+            android:icon="@drawable/trafico_icon"
+            android:title="Tráfico de passáros silvestres">
+
+        </item>
+
+    </group>
+
+</menu>
+

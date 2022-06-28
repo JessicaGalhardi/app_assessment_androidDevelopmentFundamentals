@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.app_brasilian_birds_assement_fundamentalsofcomputing">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/tuc"
+        android:roundIcon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App_brasilian_birds_assement_fundamentalsOfComputing"
+        tools:targetApi="31">
+        <activity
+            android:name=".Activities.AboutUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ActivityShare"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.HelpActivity"
+            android:exported="false"
+            android:label="@string/title_activity_register"
+            android:theme="@style/Theme.App_brasilian_birds_assement_fundamentalsOfComputing.NoActionBar" />
+        <activity
+            android:name=".Activities.FinalActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".BirdDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.DrawerActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/drawable/bg_buy.xml" value="0.126" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/drawable/bg_one.xml" value="0.126" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/layout-land/activity_bird_details.xml" value="0.21472663139329806" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/layout-land/activity_help.xml" value="0.21472663139329806" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/layout/activity_bird_details.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/layout/activity_help.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Asus Vivobook/AndroidStudioProjects/App_Assessment_FinalVersion/app_brasilian_birds_assement_fundamentalsOfComputing-2/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
