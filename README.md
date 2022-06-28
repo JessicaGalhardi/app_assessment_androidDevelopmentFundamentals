@@ -33,7 +33,8 @@ Quando o usuário escolhe uma opção, uma tela com informações sobre o passá
 
 Tela inflada após o usuário clicar na opção do menu "Sobre Nós", com um pequeno texto sobre a organização ficticia Gûyrá.
 
-<img src= https://user-images.githubusercontent.com/104734490/176267575-6936882d-f024-4726-9085-ff463270a38d.JPG)
+<p align="center">
+<img src= https://user-images.githubusercontent.com/104734490/176267575-6936882d-f024-4726-9085-ff463270a38d.JPG width="200" height="400">
 
 A tela é aberta após o usuário clicar na opção "Ongs que ajudam os passáros" Onde tem um texto que cita
 organizações brasileiras que apoiam a causa.
