@@ -7,7 +7,10 @@ Gûyrá é um aplicativo que foi desenvolvido por mim com fim acadêmico, para a
 Gûyrá é uma organização brasileira ficticia que criou esse aplicativo com o intuito de levar informações sobre passáros da fauna brasileira aos admiradores do mundo das aves,
 além de conscientizar sobre problemas como a venda ilegal de animais, e divulgar projetos que ajudam na preservação das aves do brasil.
 
-# Screenshots
+# Screenshots:
+Observação: todas as telas de layout foram aprovadas no Scanner de acessibiblidade.
+
+Tela de apresentação:
 
 
 <p align="center">
